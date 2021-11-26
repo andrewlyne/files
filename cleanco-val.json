@@ -1,0 +1,898 @@
+[
+  {
+    "text": "University of Sydney<|endoftext|>",
+    "label": "Casual Company Name: Sydney University"
+  },
+  {
+    "text": "University College London<|endoftext|>",
+    "label": "Casual Company Name: UCL"
+  },
+  {
+    "text": "Telkomsel<|endoftext|>",
+    "label": "Casual Company Name: Telkomsel"
+  },
+  {
+    "text": "Esselunga<|endoftext|>",
+    "label": "Casual Company Name: Esselunga"
+  },
+  {
+    "text": "Razer Inc.<|endoftext|>",
+    "label": "Casual Company Name: Razer"
+  },
+  {
+    "text": "OpenAI<|endoftext|>",
+    "label": "Casual Company Name: OpenAI"
+  },
+  {
+    "text": "Telenor Microfinance Bank Limited<|endoftext|>",
+    "label": "Casual Company Name: Telenor"
+  },
+  {
+    "text": "Children's Hospital of Philadelphia<|endoftext|>",
+    "label": "Casual Company Name: Children's Hospital"
+  },
+  {
+    "text": "Index Ventures<|endoftext|>",
+    "label": "Casual Company Name: Index"
+  },
+  {
+    "text": "EVERSANA<|endoftext|>",
+    "label": "Casual Company Name: Eversana"
+  },
+  {
+    "text": "Tata Technologies<|endoftext|>",
+    "label": "Casual Company Name: Tata"
+  },
+  {
+    "text": "Addison Group<|endoftext|>",
+    "label": "Casual Company Name: Addison"
+  },
+  {
+    "text": "Rutgers University<|endoftext|>",
+    "label": "Casual Company Name: Rutgers"
+  },
+  {
+    "text": "foodpanda<|endoftext|>",
+    "label": "Casual Company Name: foodpanda"
+  },
+  {
+    "text": "Binance<|endoftext|>",
+    "label": "Casual Company Name: Binance"
+  },
+  {
+    "text": "Clemson University<|endoftext|>",
+    "label": "Casual Company Name: Clemson"
+  },
+  {
+    "text": "University of Notre Dame<|endoftext|>",
+    "label": "Casual Company Name: Notre Dame"
+  },
+  {
+    "text": "Decolar<|endoftext|>",
+    "label": "Casual Company Name: Decolar"
+  },
+  {
+    "text": "Sayurbox<|endoftext|>",
+    "label": "Casual Company Name: Sayurbox"
+  },
+  {
+    "text": "Merkle<|endoftext|>",
+    "label": "Casual Company Name: Merkle"
+  },
+  {
+    "text": "Hard Rock International<|endoftext|>",
+    "label": "Casual Company Name: Hard Rock"
+  },
+  {
+    "text": "Aadhar Housing Finance Ltd.<|endoftext|>",
+    "label": "Casual Company Name: Aadhar Housing"
+  },
+  {
+    "text": "Edith Cowan University<|endoftext|>",
+    "label": "Casual Company Name: ECU"
+  },
+  {
+    "text": "Akuo Energy<|endoftext|>",
+    "label": "Casual Company Name: Akuo"
+  },
+  {
+    "text": "Mass General Brigham<|endoftext|>",
+    "label": "Casual Company Name: Mass General"
+  },
+  {
+    "text": "Japan International Cooperation Agency (JICA)<|endoftext|>",
+    "label": "Casual Company Name: JICA"
+  },
+  {
+    "text": "Electric Power Research Institute (EPRI)<|endoftext|>",
+    "label": "Casual Company Name: EPRI"
+  },
+  {
+    "text": "Broad Institute of MIT and Harvard<|endoftext|>",
+    "label": "Casual Company Name: Broad"
+  },
+  {
+    "text": "The Guardian<|endoftext|>",
+    "label": "Casual Company Name: The Guardian"
+  },
+  {
+    "text": "University of North Carolina at Chapel Hill<|endoftext|>",
+    "label": "Casual Company Name: UNC Chapel Hill"
+  },
+  {
+    "text": "Perkins&Will<|endoftext|>",
+    "label": "Casual Company Name: Perkins&Will"
+  },
+  {
+    "text": "University of Oklahoma<|endoftext|>",
+    "label": "Casual Company Name: OU"
+  },
+  {
+    "text": "California Polytechnic State University (Cal Poly)<|endoftext|>",
+    "label": "Casual Company Name: Cal Poly"
+  },
+  {
+    "text": "The University of Akron<|endoftext|>",
+    "label": "Casual Company Name: Akron"
+  },
+  {
+    "text": "Dublin City University<|endoftext|>",
+    "label": "Casual Company Name: DCU"
+  },
+  {
+    "text": "British Fashion Council<|endoftext|>",
+    "label": "Casual Company Name: British Fashion Council"
+  },
+  {
+    "text": "Art Institute of Chicago<|endoftext|>",
+    "label": "Casual Company Name: Art Institute"
+  },
+  {
+    "text": "Columbia University<|endoftext|>",
+    "label": "Casual Company Name: Columbia"
+  },
+  {
+    "text": "UT Southwestern Medical Center<|endoftext|>",
+    "label": "Casual Company Name: UT Southwestern"
+  },
+  {
+    "text": "Aragen Life Sciences<|endoftext|>",
+    "label": "Casual Company Name: Aragen"
+  },
+  {
+    "text": "WSO2<|endoftext|>",
+    "label": "Casual Company Name: WSO2"
+  },
+  {
+    "text": "Wikimedia Foundation<|endoftext|>",
+    "label": "Casual Company Name: Wikimedia"
+  },
+  {
+    "text": "Cainiao Network<|endoftext|>",
+    "label": "Casual Company Name: Cainiao"
+  },
+  {
+    "text": "The Wharton School<|endoftext|>",
+    "label": "Casual Company Name: Wharton"
+  },
+  {
+    "text": "Versace<|endoftext|>",
+    "label": "Casual Company Name: Versace"
+  },
+  {
+    "text": "Asian Development Bank (ADB)<|endoftext|>",
+    "label": "Casual Company Name: ADB"
+  },
+  {
+    "text": "Yale University Careers<|endoftext|>",
+    "label": "Casual Company Name: Yale Careers"
+  },
+  {
+    "text": "Dyson<|endoftext|>",
+    "label": "Casual Company Name: Dyson"
+  },
+  {
+    "text": "Mubadala<|endoftext|>",
+    "label": "Casual Company Name: Mubadala"
+  },
+  {
+    "text": "The Ocean Cleanup<|endoftext|>",
+    "label": "Casual Company Name: The Ocean Cleanup"
+  },
+  {
+    "text": "Yemeksepeti<|endoftext|>",
+    "label": "Casual Company Name: Yemeksepeti"
+  },
+  {
+    "text": "The University of Toledo<|endoftext|>",
+    "label": "Casual Company Name: UT"
+  },
+  {
+    "text": "Columbia Asia Hospitals Pvt. Ltd.<|endoftext|>",
+    "label": "Casual Company Name: Columbia Asia"
+  },
+  {
+    "text": "University of Windsor<|endoftext|>",
+    "label": "Casual Company Name: University of Windsor"
+  },
+  {
+    "text": "St. Petersburg College<|endoftext|>",
+    "label": "Casual Company Name: St. Petersburg College"
+  },
+  {
+    "text": "Delhivery<|endoftext|>",
+    "label": "Casual Company Name: Delhivery"
+  },
+  {
+    "text": "Fractal<|endoftext|>",
+    "label": "Casual Company Name: Fractal"
+  },
+  {
+    "text": "Concordia University<|endoftext|>",
+    "label": "Casual Company Name: Concordia"
+  },
+  {
+    "text": "Ryerson University<|endoftext|>",
+    "label": "Casual Company Name: Ryerson"
+  },
+  {
+    "text": "West Virginia University<|endoftext|>",
+    "label": "Casual Company Name: WVU"
+  },
+  {
+    "text": "Habitat for Humanity International<|endoftext|>",
+    "label": "Casual Company Name: Habitat"
+  },
+  {
+    "text": "Lodha Group<|endoftext|>",
+    "label": "Casual Company Name: Lodha"
+  },
+  {
+    "text": "AMARO<|endoftext|>",
+    "label": "Casual Company Name: Amaro"
+  },
+  {
+    "text": "Sutter Health<|endoftext|>",
+    "label": "Casual Company Name: Sutter"
+  },
+  {
+    "text": "Magic Leap<|endoftext|>",
+    "label": "Casual Company Name: Magic Leap"
+  },
+  {
+    "text": "Bleacher Report<|endoftext|>",
+    "label": "Casual Company Name: Bleacher Report"
+  },
+  {
+    "text": "Wake Forest University<|endoftext|>",
+    "label": "Casual Company Name: Wake Forest"
+  },
+  {
+    "text": "Airtel Africa<|endoftext|>",
+    "label": "Casual Company Name: Airtel"
+  },
+  {
+    "text": "Zilingo<|endoftext|>",
+    "label": "Casual Company Name: Zilingo"
+  },
+  {
+    "text": "GHD<|endoftext|>",
+    "label": "Casual Company Name: GHD"
+  },
+  {
+    "text": "Kent State University<|endoftext|>",
+    "label": "Casual Company Name: Kent State"
+  },
+  {
+    "text": "CD PROJEKT RED<|endoftext|>",
+    "label": "Casual Company Name: CD Projekt"
+  },
+  {
+    "text": "Ripple<|endoftext|>",
+    "label": "Casual Company Name: Ripple"
+  },
+  {
+    "text": "Desjardins<|endoftext|>",
+    "label": "Casual Company Name: Desjardins"
+  },
+  {
+    "text": "L Brands<|endoftext|>",
+    "label": "Casual Company Name: L Brands"
+  },
+  {
+    "text": "Kansas State University<|endoftext|>",
+    "label": "Casual Company Name: KSU"
+  },
+  {
+    "text": "University of Nebraska-Lincoln<|endoftext|>",
+    "label": "Casual Company Name: Nebraska"
+  },
+  {
+    "text": "Inova Health System<|endoftext|>",
+    "label": "Casual Company Name: Inova"
+  },
+  {
+    "text": "Wellington Management<|endoftext|>",
+    "label": "Casual Company Name: Wellington"
+  },
+  {
+    "text": "RMS<|endoftext|>",
+    "label": "Casual Company Name: RMS"
+  },
+  {
+    "text": "OVS S.p.A.<|endoftext|>",
+    "label": "Casual Company Name: OVS"
+  },
+  {
+    "text": "University of Southern California<|endoftext|>",
+    "label": "Casual Company Name: USC"
+  },
+  {
+    "text": "DISYS<|endoftext|>",
+    "label": "Casual Company Name: Disys"
+  },
+  {
+    "text": "IEEE<|endoftext|>",
+    "label": "Casual Company Name: IEEE"
+  },
+  {
+    "text": "University of California, Davis<|endoftext|>",
+    "label": "Casual Company Name: UC Davis"
+  },
+  {
+    "text": "Hire Heroes USA<|endoftext|>",
+    "label": "Casual Company Name: Hire Heroes"
+  },
+  {
+    "text": "Ethereum<|endoftext|>",
+    "label": "Casual Company Name: Ethereum"
+  },
+  {
+    "text": "Razorfish<|endoftext|>",
+    "label": "Casual Company Name: Razorfish"
+  },
+  {
+    "text": "Wise<|endoftext|>",
+    "label": "Casual Company Name: Wise"
+  },
+  {
+    "text": "University of Louisville<|endoftext|>",
+    "label": "Casual Company Name: UofL"
+  },
+  {
+    "text": "Digital House Brasil<|endoftext|>",
+    "label": "Casual Company Name: Digital House"
+  },
+  {
+    "text": "Vista Equity Partners<|endoftext|>",
+    "label": "Casual Company Name: Vista"
+  },
+  {
+    "text": "Canadian Institute for Cybersecurity<|endoftext|>",
+    "label": "Casual Company Name: Canadian Institute for Cybersecurity"
+  },
+  {
+    "text": "Beth Israel Deaconess Medical Center<|endoftext|>",
+    "label": "Casual Company Name: Beth Israel"
+  },
+  {
+    "text": "McLaren Racing<|endoftext|>",
+    "label": "Casual Company Name: McLaren"
+  },
+  {
+    "text": "Privalia<|endoftext|>",
+    "label": "Casual Company Name: Privalia"
+  },
+  {
+    "text": "Malaysia Airlines<|endoftext|>",
+    "label": "Casual Company Name: Malaysia Airlines"
+  },
+  {
+    "text": "Sheffield Hallam University<|endoftext|>",
+    "label": "Casual Company Name: Sheffield Hallam"
+  },
+  {
+    "text": "Soho House & Co<|endoftext|>",
+    "label": "Casual Company Name: Soho House"
+  },
+  {
+    "text": "Mu Sigma Inc.<|endoftext|>",
+    "label": "Casual Company Name: Mu Sigma"
+  },
+  {
+    "text": "The D. E. Shaw Group<|endoftext|>",
+    "label": "Casual Company Name: D.E. Shaw"
+  },
+  {
+    "text": "Dana-Farber Cancer Institute<|endoftext|>",
+    "label": "Casual Company Name: Dana-Farber"
+  },
+  {
+    "text": "The Good Food Institute<|endoftext|>",
+    "label": "Casual Company Name: The Good Food Institute"
+  },
+  {
+    "text": "Université de Montréal<|endoftext|>",
+    "label": "Casual Company Name: UdeM"
+  },
+  {
+    "text": "Billboard<|endoftext|>",
+    "label": "Casual Company Name: Billboard"
+  },
+  {
+    "text": "OQ8<|endoftext|>",
+    "label": "Casual Company Name: OQ8"
+  },
+  {
+    "text": "CVC Capital Partners<|endoftext|>",
+    "label": "Casual Company Name: CVC"
+  },
+  {
+    "text": "MATCHESFASHION<|endoftext|>",
+    "label": "Casual Company Name: Matchesfashion"
+  },
+  {
+    "text": "Los Alamos National Laboratory<|endoftext|>",
+    "label": "Casual Company Name: Los Alamos"
+  },
+  {
+    "text": "Lazard Asset Management<|endoftext|>",
+    "label": "Casual Company Name: Lazard"
+  },
+  {
+    "text": "Hollard Insurance<|endoftext|>",
+    "label": "Casual Company Name: Hollard"
+  },
+  {
+    "text": "Babson College<|endoftext|>",
+    "label": "Casual Company Name: Babson"
+  },
+  {
+    "text": "GreyOrange<|endoftext|>",
+    "label": "Casual Company Name: GreyOrange"
+  },
+  {
+    "text": "Worcester Polytechnic Institute<|endoftext|>",
+    "label": "Casual Company Name: WPI"
+  },
+  {
+    "text": "Vistara - TATA SIA Airlines Ltd.<|endoftext|>",
+    "label": "Casual Company Name: Vistara"
+  },
+  {
+    "text": "Freshersworld.com<|endoftext|>",
+    "label": "Casual Company Name: Freshersworld"
+  },
+  {
+    "text": "Wayne State University<|endoftext|>",
+    "label": "Casual Company Name: Wayne State"
+  },
+  {
+    "text": "Andreessen Horowitz<|endoftext|>",
+    "label": "Casual Company Name: Andreessen"
+  },
+  {
+    "text": "Greystar<|endoftext|>",
+    "label": "Casual Company Name: Greystar"
+  },
+  {
+    "text": "Aspiring Minds<|endoftext|>",
+    "label": "Casual Company Name: Aspiring Minds"
+  },
+  {
+    "text": "Chevron Phillips Chemical Company<|endoftext|>",
+    "label": "Casual Company Name: Chevron Phillips"
+  },
+  {
+    "text": "Providence Health & Services<|endoftext|>",
+    "label": "Casual Company Name: Providence"
+  },
+  {
+    "text": "Hero FinCorp.<|endoftext|>",
+    "label": "Casual Company Name: Hero"
+  },
+  {
+    "text": "University of San Diego<|endoftext|>",
+    "label": "Casual Company Name: USD"
+  },
+  {
+    "text": "ActionAid<|endoftext|>",
+    "label": "Casual Company Name: ActionAid"
+  },
+  {
+    "text": "Welocalize<|endoftext|>",
+    "label": "Casual Company Name: Welocalize"
+  },
+  {
+    "text": "Entrepreneur First<|endoftext|>",
+    "label": "Casual Company Name: EF"
+  },
+  {
+    "text": "Durham College<|endoftext|>",
+    "label": "Casual Company Name: Durham College"
+  },
+  {
+    "text": "The Depository Trust & Clearing Corporation (DTCC)<|endoftext|>",
+    "label": "Casual Company Name: DTCC"
+  },
+  {
+    "text": "Duquesne University<|endoftext|>",
+    "label": "Casual Company Name: Duquesne"
+  },
+  {
+    "text": "Henry Ford Health System<|endoftext|>",
+    "label": "Casual Company Name: Henry Ford Health"
+  },
+  {
+    "text": "LaSalle Investment Management<|endoftext|>",
+    "label": "Casual Company Name: LaSalle"
+  },
+  {
+    "text": "University of Wisconsin-Madison<|endoftext|>",
+    "label": "Casual Company Name: UW-Madison"
+  },
+  {
+    "text": "Reliance Retail<|endoftext|>",
+    "label": "Casual Company Name: Reliance"
+  },
+  {
+    "text": "Ant Group<|endoftext|>",
+    "label": "Casual Company Name: Ant"
+  },
+  {
+    "text": "University College Dublin<|endoftext|>",
+    "label": "Casual Company Name: UCD"
+  },
+  {
+    "text": "Mahindra Electric Mobility Limited<|endoftext|>",
+    "label": "Casual Company Name: Mahindra"
+  },
+  {
+    "text": "Apotex Inc.<|endoftext|>",
+    "label": "Casual Company Name: Apotex"
+  },
+  {
+    "text": "Liquid Intelligent Technologies<|endoftext|>",
+    "label": "Casual Company Name: Liquid"
+  },
+  {
+    "text": "Saavn LLC<|endoftext|>",
+    "label": "Casual Company Name: Saavn"
+  },
+  {
+    "text": "Birmingham City University<|endoftext|>",
+    "label": "Casual Company Name: Birmingham City"
+  },
+  {
+    "text": "Temasek<|endoftext|>",
+    "label": "Casual Company Name: Temasek"
+  },
+  {
+    "text": "InstaShop<|endoftext|>",
+    "label": "Casual Company Name: InstaShop"
+  },
+  {
+    "text": "Khan<|endoftext|>",
+    "label": "Casual Company Name: Khan"
+  },
+  {
+    "text": "X, the moonshot factory<|endoftext|>",
+    "label": "Casual Company Name: X"
+  },
+  {
+    "text": "EDF Renewables North America<|endoftext|>",
+    "label": "Casual Company Name: EDF Renewables"
+  },
+  {
+    "text": "The Luxury Closet, Inc.<|endoftext|>",
+    "label": "Casual Company Name: The Luxury Closet"
+  },
+  {
+    "text": "The University of Tokyo<|endoftext|>",
+    "label": "Casual Company Name: Tokyo University"
+  },
+  {
+    "text": "Ulster University<|endoftext|>",
+    "label": "Casual Company Name: Ulster"
+  },
+  {
+    "text": "Missouri University of Science and Technology<|endoftext|>",
+    "label": "Casual Company Name: Missouri S&T"
+  },
+  {
+    "text": "McGill Executive Institute<|endoftext|>",
+    "label": "Casual Company Name: McGill"
+  },
+  {
+    "text": "Duke University<|endoftext|>",
+    "label": "Casual Company Name: Duke"
+  },
+  {
+    "text": "Virgin Atlantic<|endoftext|>",
+    "label": "Casual Company Name: Virgin"
+  },
+  {
+    "text": "University of Virginia<|endoftext|>",
+    "label": "Casual Company Name: UVA"
+  },
+  {
+    "text": "McLaren Group<|endoftext|>",
+    "label": "Casual Company Name: McLaren"
+  },
+  {
+    "text": "George Brown College<|endoftext|>",
+    "label": "Casual Company Name: George Brown"
+  },
+  {
+    "text": "InMobi<|endoftext|>",
+    "label": "Casual Company Name: InMobi"
+  },
+  {
+    "text": "Airtel Nigeria<|endoftext|>",
+    "label": "Casual Company Name: Airtel"
+  },
+  {
+    "text": "Astek<|endoftext|>",
+    "label": "Casual Company Name: Astek"
+  },
+  {
+    "text": "University of Alabama at Birmingham<|endoftext|>",
+    "label": "Casual Company Name: UAB"
+  },
+  {
+    "text": "Two Sigma<|endoftext|>",
+    "label": "Casual Company Name: Two Sigma"
+  },
+  {
+    "text": "University of Dayton<|endoftext|>",
+    "label": "Casual Company Name: University of Dayton"
+  },
+  {
+    "text": "Wegmans Food Markets<|endoftext|>",
+    "label": "Casual Company Name: Wegmans"
+  },
+  {
+    "text": "Children's Hospital Los Angeles (CHLA)<|endoftext|>",
+    "label": "Casual Company Name: CHLA"
+  },
+  {
+    "text": "Bungie<|endoftext|>",
+    "label": "Casual Company Name: Bungie"
+  },
+  {
+    "text": "upGrad<|endoftext|>",
+    "label": "Casual Company Name: upGrad"
+  },
+  {
+    "text": "Swissport<|endoftext|>",
+    "label": "Casual Company Name: Swissport"
+  },
+  {
+    "text": "Towson University<|endoftext|>",
+    "label": "Casual Company Name: Towson"
+  },
+  {
+    "text": "G42<|endoftext|>",
+    "label": "Casual Company Name: G42"
+  },
+  {
+    "text": "University of North Dakota<|endoftext|>",
+    "label": "Casual Company Name: UND"
+  },
+  {
+    "text": "Reiss<|endoftext|>",
+    "label": "Casual Company Name: Reiss"
+  },
+  {
+    "text": "RITU KUMAR<|endoftext|>",
+    "label": "Casual Company Name: Ritu Kumar"
+  },
+  {
+    "text": "The University of British Columbia<|endoftext|>",
+    "label": "Casual Company Name: UBC"
+  },
+  {
+    "text": "Laborum.com<|endoftext|>",
+    "label": "Casual Company Name: Laborum"
+  },
+  {
+    "text": "University of Liverpool<|endoftext|>",
+    "label": "Casual Company Name: Liverpool"
+  },
+  {
+    "text": "Nykaa<|endoftext|>",
+    "label": "Casual Company Name: Nykaa"
+  },
+  {
+    "text": "University of Connecticut<|endoftext|>",
+    "label": "Casual Company Name: UConn"
+  },
+  {
+    "text": "CEPSA<|endoftext|>",
+    "label": "Casual Company Name: CePSA"
+  },
+  {
+    "text": "Bharat Biotech International Limited<|endoftext|>",
+    "label": "Casual Company Name: Bharat Biotech"
+  },
+  {
+    "text": "PATH<|endoftext|>",
+    "label": "Casual Company Name: Path"
+  },
+  {
+    "text": "Bibit.id<|endoftext|>",
+    "label": "Casual Company Name: Bibit"
+  },
+  {
+    "text": "CitiusTech<|endoftext|>",
+    "label": "Casual Company Name: Citius"
+  },
+  {
+    "text": "Serum Institute of India Pvt. Ltd.<|endoftext|>",
+    "label": "Casual Company Name: Serum Institute"
+  },
+  {
+    "text": "Tata Capital<|endoftext|>",
+    "label": "Casual Company Name: Tata"
+  },
+  {
+    "text": "Eliassen Group<|endoftext|>",
+    "label": "Casual Company Name: Eliassen"
+  },
+  {
+    "text": "Georgia State University<|endoftext|>",
+    "label": "Casual Company Name: Georgia State"
+  },
+  {
+    "text": "Banque Misr<|endoftext|>",
+    "label": "Casual Company Name: Banque Misr"
+  },
+  {
+    "text": "University of Alberta<|endoftext|>",
+    "label": "Casual Company Name: U of A"
+  },
+  {
+    "text": "Max Life Insurance Company Limited<|endoftext|>",
+    "label": "Casual Company Name: Max Life"
+  },
+  {
+    "text": "Puratos<|endoftext|>",
+    "label": "Casual Company Name: Puratos"
+  },
+  {
+    "text": "The Linux Foundation<|endoftext|>",
+    "label": "Casual Company Name: Linux Foundation"
+  },
+  {
+    "text": "OVO (PT Visionet Internasional)<|endoftext|>",
+    "label": "Casual Company Name: OVO"
+  },
+  {
+    "text": "Simon Fraser University<|endoftext|>",
+    "label": "Casual Company Name: Simon Fraser"
+  },
+  {
+    "text": "University of Victoria<|endoftext|>",
+    "label": "Casual Company Name: UVic"
+  },
+  {
+    "text": "Analytics Vidhya<|endoftext|>",
+    "label": "Casual Company Name: Analytics Vidhya"
+  },
+  {
+    "text": "University of Sussex<|endoftext|>",
+    "label": "Casual Company Name: Sussex"
+  },
+  {
+    "text": "Square Yards<|endoftext|>",
+    "label": "Casual Company Name: Square Yards"
+  },
+  {
+    "text": "The University of Texas at El Paso<|endoftext|>",
+    "label": "Casual Company Name: UTEP"
+  },
+  {
+    "text": "Freecharge<|endoftext|>",
+    "label": "Casual Company Name: Freecharge"
+  },
+  {
+    "text": "Virgin Orbit<|endoftext|>",
+    "label": "Casual Company Name: Virgin Orbit"
+  },
+  {
+    "text": "Murdoch University<|endoftext|>",
+    "label": "Casual Company Name: Murdoch"
+  },
+  {
+    "text": "VLI Logística<|endoftext|>",
+    "label": "Casual Company Name: VLI"
+  },
+  {
+    "text": "University of Illinois at Chicago Online<|endoftext|>",
+    "label": "Casual Company Name: UIC Online"
+  },
+  {
+    "text": "Marelli<|endoftext|>",
+    "label": "Casual Company Name: Marelli"
+  },
+  {
+    "text": "Bpifrance<|endoftext|>",
+    "label": "Casual Company Name: Bpifrance"
+  },
+  {
+    "text": "Curtin University<|endoftext|>",
+    "label": "Casual Company Name: Curtin"
+  },
+  {
+    "text": "Deloitte Italia<|endoftext|>",
+    "label": "Casual Company Name: Deloitte"
+  },
+  {
+    "text": "Teach For America<|endoftext|>",
+    "label": "Casual Company Name: Teach For America"
+  },
+  {
+    "text": "The Australian National University<|endoftext|>",
+    "label": "Casual Company Name: ANU"
+  },
+  {
+    "text": "University of Manitoba<|endoftext|>",
+    "label": "Casual Company Name: University of Manitoba"
+  },
+  {
+    "text": "Endeavor<|endoftext|>",
+    "label": "Casual Company Name: Endeavor"
+  },
+  {
+    "text": "The University of New Mexico<|endoftext|>",
+    "label": "Casual Company Name: UNM"
+  },
+  {
+    "text": "Lund University<|endoftext|>",
+    "label": "Casual Company Name: Lund"
+  },
+  {
+    "text": "Universidad Tecnológica del Perú<|endoftext|>",
+    "label": "Casual Company Name: Tecnológica del Perú"
+  },
+  {
+    "text": "University of Rochester<|endoftext|>",
+    "label": "Casual Company Name: University of Rochester"
+  },
+  {
+    "text": "Edmond de Rothschild<|endoftext|>",
+    "label": "Casual Company Name: Edmond de Rothschild"
+  },
+  {
+    "text": "ONE<|endoftext|>",
+    "label": "Casual Company Name: One"
+  },
+  {
+    "text": "Palladium: Make It Possible<|endoftext|>",
+    "label": "Casual Company Name: Palladium"
+  },
+  {
+    "text": "365 Data Science<|endoftext|>",
+    "label": "Casual Company Name: 365 Data Science"
+  },
+  {
+    "text": "Aarti Industries Ltd.<|endoftext|>",
+    "label": "Casual Company Name: Aarti"
+  },
+  {
+    "text": "Artefact<|endoftext|>",
+    "label": "Casual Company Name: Artefact"
+  },
+  {
+    "text": "BBC Global News<|endoftext|>",
+    "label": "Casual Company Name: BBC"
+  },
+  {
+    "text": "Khazanah Nasional Berhad<|endoftext|>",
+    "label": "Casual Company Name: Khazanah"
+  },
+  {
+    "text": "Mirae Asset Global Investments<|endoftext|>",
+    "label": "Casual Company Name: Mirae"
+  }
+]
